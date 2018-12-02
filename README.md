@@ -24,7 +24,7 @@ _This is the reference code for lite GUI wallet for the [GrafenoCoin](https://gr
 
 ## How to use
 
-**1. Download the latest release of [GrafenoCoin Lite wallet](https://github.com/elbernn/grafenocoin-lite-wallet/releases/)**
+**1. Download the latest release of [GrafenoCoin Lite wallet](https://github.com/gfncoin/grafenocoin-lite-wallet/releases/)**
 
 **2. Unpack the release package**
 
@@ -71,7 +71,7 @@ Get dependencies:
 **2. Get sources & libs**
 
 1. Create an account on [GitHub.com](github.com) or log in to an existing one
-2. Fork [GrafenoCoin lite wallet](https://github.com/elbernn/grafenocoin-lite-wallet.git) or/and download it
+2. Fork [GrafenoCoin lite wallet](https://github.com/gfncoin/grafenocoin-lite-wallet.git) or/and download it
 
 **3. Configure and generate the project files**
 
@@ -110,7 +110,7 @@ _Your binaries will be located in the `src/release` folder._
 **2. Get the source**
 
 ``
-git clone https://github.com/elbernn/grafenocoin-lite-wallet.git grafenocoin-lite-wallet
+git clone https://github.com/gfncoin/grafenocoin-lite-wallet.git grafenocoin-lite-wallet
 ``
 
 ``
