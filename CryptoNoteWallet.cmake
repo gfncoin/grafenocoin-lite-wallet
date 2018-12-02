@@ -1,0 +1,3 @@
+set(CN_PROJECT_NAME "GrafenoCoin")
+set(CN_CURRENCY_DISPLAY_NAME "grafenocoin")
+set(CN_CURRENCY_TICKER "GFN")
